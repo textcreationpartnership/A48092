@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from the nobility, barons, and commons of Scotland in the year 1320, yet extant under all the seals of nobility, directed to Pope John wherein they declare their firm resolutions to adhere to their king, Robert the Bruce, as the restorer of the safety, and liberties of the people, and as having the true right of succession, but withall, they notwithstanding declare, that if the king should offer to subvert their civil liberties, they will disown him as an enemy, and choose another to be king, for their own defense / translated from the original, in Latine ... by Sir George M'Kenzie.</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48092</idno><idno type="EEBO-CITATION">8181510</idno>
+  <idno type="VID">41027</idno>
+  <idno type="EEBO-PROQUEST">2248508325</idno>
+  
+            <idno type="STC">Wing L1534</idno>
+            <idno type="STC">ESTC R24431</idno>
+            <idno type="OCLC">08181510</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41027)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1234:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from the nobility, barons, and commons of Scotland in the year 1320, yet extant under all the seals of nobility, directed to Pope John wherein they declare their firm resolutions to adhere to their king, Robert the Bruce, as the restorer of the safety, and liberties of the people, and as having the true right of succession, but withall, they notwithstanding declare, that if the king should offer to subvert their civil liberties, they will disown him as an enemy, and choose another to be king, for their own defense / translated from the original, in Latine ... by Sir George M'Kenzie.</title>
+                  <author>John XXII, Pope, d. 1334.</author>
+                  <author>Mackenzie, George, Sir, 1636-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgi :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>English and Latin in parallel columns.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Robert --  I, --  King of Scotland, 1274-1329.</term>
+               <term type="geographic_name">Scotland --  History --  War of Independence, 1285-1371.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41027:1"/>
+            <p>LETTER From the NOBILITY, BARONS and COMMONS of SCOTLAND, in the Year 1320, yet Extant under all the Seals of the NOBILITY: DIRECTED TO POPE JOHN <hi>Wherein they declare their firm Resolutions, to adhere to their King</hi> ROBERT <hi>the</hi> BRUCE, <hi>as the Restorer of the Safety, and Liberties of the People, and as having the true Right of</hi> Succession; <hi>But withall, they notwithstanding De<g ref="char:EOLhyphen"/>clare, That if the</hi> King <hi>should offer to subvert their Civil Liberties, they will disown him as an Enemy, and choose another to be</hi> King, <hi>for their own Defence.</hi>
+            </p>
+            <p>Translated from the Original, in <hi>Latine,</hi> as it is insert by Sir <hi>George M'kenzie</hi> of <hi>Rose<g ref="char:EOLhyphen"/>haugh,</hi> His Majesty's Advocate, in his Observations on Precedency, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Impressum juxta Typum nuper</hi> Edinburgi <hi>Excusum</hi> Anno 1700</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:41027:2"/>
+            <pb facs="tcp:41027:2"/>
+            <head>Jus <hi>SCOTORUM,</hi> Or a Letter from the <hi>Nobility, Barons</hi> and <hi>Commons</hi> of <hi>SCOTLAND,</hi> in the <hi>Year 1320,</hi> yet extant under all the <hi>Seals</hi> of the <hi>Nobility, &amp;c.</hi>
+            </head>
+            <div xml:lang="lat" type="version">
+               <p>SAnctissimo Patri in CHRISTO ac Domino, Domino <hi>Joanni</hi> Divi<g ref="char:EOLhyphen"/>na Providentia Sacro-sanctae Ro<g ref="char:EOLhyphen"/>marae &amp; Universalis Ecclesiae summo Pontifici, Filii sui hu<g ref="char:EOLhyphen"/>miles &amp; devoti, <hi>Duncanus</hi> Co<g ref="char:EOLhyphen"/>mes de Fyfe, <hi>Thomas</hi> Ranulphus Comes Moraviae, Dominus Manniae, &amp; Vallis Anandiae, <hi>Patricius</hi> de Dumbar, Comes Marchiae, <hi>Malisius</hi> Comes de Strathern, <hi>Malcolmus</hi> Comes de Levenox, <hi>VVillielmus</hi> Comes de Ross, <hi>Magnus</hi> Comes Cathaniae &amp; Orcadiae, &amp; <hi>Willielmus</hi> Comes Suther landiae, <hi>Walterus</hi> Senescallus, <hi>Willielmus</hi> de Soules Buttelarius Scotiae, <hi>Jacobus</hi> Domi<g ref="char:EOLhyphen"/>nus de Dowglas, <hi>Rogerus</hi> de Moubray, <hi>Da<g ref="char:EOLhyphen"/>vid</hi> Dominus de Brechine, <hi>David</hi> de Gra<g ref="char:EOLhyphen"/>hame, <hi>Ingelarmus</hi> de Unfravile, <hi>Joannes</hi> de Menteith Custos Comitatus de Menteith, <hi>Alexander Frazer, Gilbertus</hi> de Haia Con<g ref="char:EOLhyphen"/>stabularius Scotiae, <hi>Robertus</hi> de Keith Ma<g ref="char:EOLunhyphen"/>riscallus Scotiae, <hi>Henricus</hi> de Sanctoclaro, <hi>Joannes</hi> de Grahame, <hi>David</hi> de Lindsey, <hi>VVillielmus Oliphant, Patricius</hi> de Grahame, <hi>Joannes</hi> de Benton, <hi>VVillielmus</hi> de Aber<g ref="char:EOLhyphen"/>nethie, <hi>David</hi> de Weyms, <hi>Willielmus</hi> de Monte fixo, <hi>Fergusius</hi> de Ardrosan, <hi>Eustachius</hi> de Maxwel, <hi>VVillielmus</hi> de Ramsay, <hi>Williel<g ref="char:EOLhyphen"/>mus de Monte alto. Alanus de Moravia, Dovenaldus Camthell, Joannes Camburn, Reginal<g ref="char:EOLhyphen"/>dus le Chen, Alexander de Seton, Andreas de Lescelyne, &amp; Alexander de Straten</hi> caeteri<g ref="char:EOLhyphen"/>que Barones &amp; Libere tenentes; ac tota Communitas Regni SCOTIAE, omni<g ref="char:EOLhyphen"/>modam Reverentiam fil ialem, cum devotis pedum osculis Beatorum, Scimus
+<pb n="4" facs="tcp:41027:3"/> sanctissime Pater &amp; Domine, &amp; ex antiquo<g ref="char:EOLhyphen"/>rum Gestis &amp; Libtis colligimas, quod in<g ref="char:EOLhyphen"/>ter caeteras Nationes egregias, nostra sciz. <hi>Scotorum</hi> Natio, multis Proeconiis fuerit in<g ref="char:EOLhyphen"/>signita: Quae de majori <hi>Scythia</hi> per mare Tirthenum, &amp; Columnas <hi>Herculis</hi> Transiens, &amp; in Hispania inter ferocissimos, per mul<g ref="char:EOLhyphen"/>ta temporum Curricula, residens, à nul<g ref="char:EOLhyphen"/>lis quantumcunque Barbaricis poterat ali<g ref="char:EOLhyphen"/>cubi subjugari; Indeque veniens, post mille &amp; ducentos annos à Transitu populi Israelitici, sibi sedes in Occidente quas nunc obtinet, expulsis Brittonibus, &amp; Pictis omnino deletis, licet per Norwegienses, Danos, &amp; Anglos saepius impugnata fuerit, multis sibi Victoriis, &amp; Labotibus quam<g ref="char:EOLhyphen"/>plurimis adquisivit; ipsasque ab omni servitute Liberas ut Priscorum Testantur Historiae, semper tenuit. In quorum Reg<g ref="char:EOLhyphen"/>no, centum &amp; tredecem Reges de ipsorum Regali prosapia, nullo alienigena interve<g ref="char:EOLhyphen"/>niente, Regnaverunt. Quorum Nobilita<g ref="char:EOLhyphen"/>tes &amp; merita, licet ex aliis non clarerent, satis tamen patenter effulgent ex eo quod Rex Regum Dominus IESUS CHRISTUS, post Passionem &amp; Resurrectionem suam, ipsos in ultimis Terrae finibus constitu<g ref="char:EOLhyphen"/>tos, quasi primos, ad suam Fidem San<g ref="char:EOLhyphen"/>ctissimam; convocavit: Nec eos, per quem<g ref="char:EOLhyphen"/>libet in dictâ fide, confirmari voluit, sed per suum primum Apostolum quamvis Ordine secundum vel tertium, sanctum <hi>Andream</hi> meritissi num beati <hi>Petri</hi> Ger<g ref="char:EOLhyphen"/>manum, quem semper ipsis praeesse voluit ut Patronum. Haec autem san<g ref="char:EOLhyphen"/>ctissimi Patres &amp; Predecessores vestri solicita mente pensantes, ipsum Reg<g ref="char:EOLunhyphen"/>num &amp; Populum, ut beati Petri Germani peculium, maltis favoribu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; privilegiis quam plutimis <hi>muniverunt. liaqae gens nostra, sub ipsorum protectione, libera hactenus deguit &amp;</hi>
+                  <pb n="5" facs="tcp:41027:3"/> quieta; donec ille Princeps Magnificus Rex <hi>Anglorum Edwardus,</hi> Pater istius qui nunc est, Regnum nostrum Acephalum, Populum{que} nullius mali aut doli conscium, nec Bellis aut insultibus tunc assuerum, sub amici &amp; confoederati specie, innumerabili<g ref="char:EOLhyphen"/>ter infestavit: Cujus Injurias, Cades &amp; vi<g ref="char:EOLhyphen"/>olentias, Praedationes, Incendia, Prelato<g ref="char:EOLhyphen"/>rum Incarcerationes, Monasteriorum Com<g ref="char:EOLhyphen"/>bustiones, Religiosorum Spoliationes, &amp; Occisiones, alia quoque Enormia, quae in dicto populo exercuit, nulli parcens Aetati aut Sexui, Religioni aut Ordini, nullus scriberet, nec ad plenum intelligeret, nisi quem Experientia informares. A quibus malis innumeris, ipso juvante qui post vul<g ref="char:EOLhyphen"/>nera medetur &amp; sanat, Liberati sumus per serenissimum Principem, Regem &amp; Domi<g ref="char:EOLhyphen"/>num nostrum, Dominum <hi>Robertum,</hi> qui pro Populo &amp; Haereditate suis, de Manibus inimicorum liberandis, quasi alter <hi>Macca<g ref="char:EOLhyphen"/>beus</hi> aut <hi>Josue</hi> Labores &amp; taedia, Inedias &amp; pericula, laeto sustinuit Animo: Quem etiam Divina Dispositio, &amp; juxta Leges &amp; Consuetudines nostras, quas usque ad mor<g ref="char:EOLhyphen"/>tem sustinere, volumus, jutis Successio, &amp; debitus nostrorum Consensus &amp; Assensus, nostrum fecerunt principem atque Regem. Cui, tanquam illi per quem salus in Populo facta est, pro nostra Libertate tuenda, tam J<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te quam Meritis tenemur, &amp; volumus in omnibus adhaerere. Quem, si ab inceptis desistet, Regi <hi>Anglorum</hi> aut <hi>Anglicis</hi> nos, aut Regnum nostrum volens subjicere, tanquam inimicum nostrum, &amp; sui nostrique Juris Subversorem statim expellere nireremur; &amp; alium Regem nostrum, qui ad defensi<g ref="char:EOLunhyphen"/>onem nostram sufficiet, faciemu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Quia quam din Centum vivi remanserint, nunquam <hi>Anglorum</hi> Domino aliquatenus volum <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>u<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>jugari. <hi>Non enim propter gloriam devitias out honor<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pugnamus, sed propter libertatem solummo<g ref="char:EOLhyphen"/>do, quam nemo honus nisi fimul cum vita amit<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t, Hinc est, Reverende Pater ac Domin</hi>
+                  <pb n="6" facs="tcp:41027:4"/> quod sanctitatem vestram, cum omni Prae<g ref="char:EOLhyphen"/>cum instantia. Genu flexis Cordibus exo<g ref="char:EOLhyphen"/>ramus; Quatenus sincero corde, menteque pia tecensentes, quod apud cum cujus vices in tetris geritis, non sic pondus, &amp; pondus, nec distinctio Judei &amp; Graeci, Scoti aut Anglici, tribula iones &amp; angustias nobis &amp; Ecclesiae DEI illatas ab Anglicis paternis, oculis intuentes; Regem Anglorum, cui sufficere debet quod possi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et, cum olim An<g ref="char:EOLhyphen"/>glia septem aut pluribus solebat sufficere Regibus, monere &amp; exhortari dignemini, ut nos <hi>Scotos</hi> in exili degentes <hi>Scotia</hi> ultraquam habitatio non est, nihil{que} nisi nostrum cupi<g ref="char:EOLhyphen"/>entes in pace dimittat. Cui pro nostra pro<g ref="char:EOLhyphen"/>curanda quiete quicquid possumus, ad sta<g ref="char:EOLhyphen"/>tum nostrum respectu habito, hoc facere volumus cum effectu. Vestra enim inter<g ref="char:EOLhyphen"/>est, Sancte Pater, hoc facere, qui Paga<g ref="char:EOLhyphen"/>norum feritatem, Christianorum culpis exigentibus, in Christianos saevientem aspi<g ref="char:EOLhyphen"/>citis, &amp; Christianorum terminos arctari in<g ref="char:EOLhyphen"/>dies: Quare ne quid vestrae Sanctitatis me<g ref="char:EOLhyphen"/>moriae deroget, &amp; si, quod absit, Ecclesia in aliqua sui parte vestris temporibu's pa<g ref="char:EOLhyphen"/>tiatur Ecclipsia aut Scandalum, vos videri<g ref="char:EOLhyphen"/>tis. Exhortet igitur Christianos principes, qui, non causam ut causam ponentes, se fi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gant in subsidium Terrae Sancte, prop<g ref="char:EOLhyphen"/>ter guerras quas habent cum proximis ite non posse: cu jus impedimenti causa est verior, quod, in minoribus proximis de<g ref="char:EOLhyphen"/>bellandis, utilitas propior &amp; resistentia debilior aestimantur. Sic quam laeto corde dictus Dominus Rex noster, &amp; nos, si Rex Anglorum nos in pace dimittet, illuc ire<g ref="char:EOLhyphen"/>mus; qui nihil ignorat satis novit: Quod Christi Vicario totique Christianitati osten<g ref="char:EOLhyphen"/>dimus &amp; testamur. Quibus si Sanctitas vestra Anglorum relatibus nimis credula, filem sinceram non adhibeat, aut ip<g ref="char:EOLhyphen"/>sis
+<pb n="7" facs="tcp:41027:4"/> in nostram confusionem savere non desi<g ref="char:EOLhyphen"/>nat; corporum excidia, animarum exitia, &amp; cetera quae sequentur incommoda, quae ipsi in nobis, &amp; nos in ipsis fecerimus, vobis ab Altissimo credimus imputando. Ex quo fumus &amp; erimus in his quae tenemur, tan<g ref="char:EOLhyphen"/>quam obedientiae filii vobis tanquam ipsius Vicario in omnibus complacere; ipsique tanquam summo Regi &amp; Judici, causam nostram tuendam committimus: Cogita<g ref="char:EOLhyphen"/>tum nostrum jactantes in ipso, sperantesque finem, quod in nobis virtutem faciet, &amp; ad nihilum rediget hostes nostros. Sereni<g ref="char:EOLhyphen"/>tatem &amp; Sanctitatem vestram conservet Al<g ref="char:EOLhyphen"/>tissimus Ecclesiae suae sanctae per tempora diuturna. Datum apud Monasterium de <hi>Aherbrothock</hi> in <hi>Scotia,</hi> sexto die <hi>Aprilis.</hi> An<g ref="char:EOLhyphen"/>no Gratiae milesimo trecentesimo vicesi <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, Anno vero Regne Regis nostri suprad<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cti, quintodecimo.</p>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb facs="tcp:41027:2"/>
+               <p>TO our most holy Father in Christ, and our Lord, <hi>John,</hi> by the Divine Providence, chief Bishop of the most holy Roman, and Universal Church, Your Humble and De<g ref="char:EOLhyphen"/>voted Sons, <hi>Duncan</hi> Earl <hi>of Fyfe, Thomas Ran<g ref="char:EOLhyphen"/>dolph</hi> Earl of <hi>Murray,</hi> Lord of <hi>Mannia,</hi> and <hi>An<g ref="char:EOLhyphen"/>nandale, Patrick de Dumbar,</hi> Earl of <hi>March, Malisius,</hi> Earl of <hi>Strathern, Malcolm,</hi> Earl of <hi>Strathern, Malcolm</hi> Earl of <hi>Lennox, William</hi> Earl of <hi>Ross, Magnus</hi> Earl of <hi>Caithness,</hi> and <hi>Orkney, William,</hi> Earl of <hi>Sutherland, Walter</hi> Stuard of <hi>Scotland, William de Soules,</hi> Butte<g ref="char:EOLhyphen"/>larius of <hi>Scotland, James Lord of Dowglass, Ro<g ref="char:EOLhyphen"/>ger de Mowbray, David</hi> Lord of <hi>Brechin, David de Grahame, Ingelramus de Ʋnfravile, John de Monteith,</hi> Warder of the County of <hi>Monteith, Alexander Frazer, Gilbert de Hay,</hi> Constable of <hi>Scotland, Robert de Keith,</hi> Marishal of <hi>Scotland, Henry de Sancto-Claro, John de Grahame, Da<g ref="char:EOLhyphen"/>vid de Lindsay, William Oliphant, Patrickide Grahame, John de Fenton, William de Aber<g ref="char:EOLhyphen"/>nethie, David de Weyms, William de Monte-fixo, Fergus de Ardrosan, Eustachius de Maxwel, Wil<g ref="char:EOLhyphen"/>liam de Ramsay, William de Monte-Alto, Allan de Murray, Donald Campbel. John Camburn, Re<g ref="char:EOLhyphen"/>ginald le Chene, Alexander de Seton, Andrew de Lescelyne</hi> and <hi>Alexander de Straton.</hi> And the rest of the Barons and Free-holders, and whole Community, or Commons of the King<g ref="char:EOLhyphen"/>dom of <hi>Scotland,</hi> Send all manner of filial Re<g ref="char:EOLhyphen"/>verence, with devout kisses, of your Blessed and happy Feet.</p>
+               <p>Most holy Father and Lord, we know, and ga<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:41027:3"/> from ancient acts, and records, that in eve<g ref="char:EOLhyphen"/>ry famous Nation, this of <hi>Scotland</hi> hath been ce<g ref="char:EOLhyphen"/>lebrate with many Praises: This Nation having come from <hi>Scythia</hi> the Greater, through the <hi>Tus<g ref="char:EOLhyphen"/>can</hi> Sea, and by <hi>Hercules</hi> Pillars, and having for many Ages taken its Residence in <hi>Spain,</hi> in the midst of a most fierce People, could never be brought in Subjection by any People, how Bar<g ref="char:EOLhyphen"/>barous soever: And having removed from these parts, above 1200 years after the coming of the <hi>Israelites</hi> out of <hi>Egypt,</hi> did by many Victories and much toile, obtain these parts in the West, which they still possess, having expelled the <hi>Britons.</hi> and intirely rooted out the <hi>Picts,</hi> notwithstanding of the frequent Assaults, and Invasions they met with from the <hi>Norvegians, Danes,</hi> and <hi>English;</hi> And these parts, and Pos<g ref="char:EOLhyphen"/>sessions they have alwise retained free from all manner of Servitude, and Subjection, as an<g ref="char:EOLhyphen"/>cient Histories do Witness.</p>
+               <p>This <hi>Kingdom</hi> hath been Governed by an uninterrupted Succession of 113 Kings all of our own Native &amp; Royal Stock, without the inter<g ref="char:EOLhyphen"/>veening of any stranger.</p>
+               <p>The true Nobility and Merits of those Prin<g ref="char:EOLhyphen"/>ces and People, are very remarkable, from this one consideration, (tho' there were no other Evidence for it) That the <hi>King</hi> of <hi>Kings,</hi> the <hi>Lord Jesus Christ,</hi> after his Passion, and Resur<g ref="char:EOLhyphen"/>rection, Honoured them as it were the first, (though living in the outmost ends of the Earth) with a Call to his most <hi>holy Faith:</hi> Neither would our <hi>Saviour</hi> have them confirmed in the <hi>Christian Faith,</hi> by any other Instru<g ref="char:EOLhyphen"/>ment, than his own first Apostle, (tho in or<g ref="char:EOLhyphen"/>der the second or third) St. <hi>Andrew</hi> the most worthy Brother of the Blessed <hi>Peter,</hi> whom he would alwise have to be over us, as our Patron, or Protector.</p>
+               <p>Upon the weighty Consideration of these Things our, most Holy Fathers, your Predeces<g ref="char:EOLhyphen"/>sors, did with many great and singular Fa<g ref="char:EOLhyphen"/>vours and Priviledges, Fence and secure this Kingdom and People as being the peculiar Charge, and Care, of the Brother of St. <hi>Peter;</hi> So that our Nation hath hitherto lived in freedom and quietness, under their
+<pb n="5" facs="tcp:41027:3"/> protection, till the <hi>Magnificent, King Edward,</hi> Father to the present King of <hi>England,</hi> did under the colour of Friendship, and Allyance, or con<g ref="char:EOLhyphen"/>federacy, with innumerable oppressions infest us who minded no fraud or deceit, at a time when we were without a <hi>King or Head,</hi> and when the People were unacquainted with Wars and Invasions. It is impossible for any whose own experience hath not informed him to describe, or fully to understand, the injuries, Blood, and violence, the depredations and Fire, the im<g ref="char:EOLhyphen"/>prisonments of <hi>Prelates,</hi> the burning, slaughter, and Robbery committed upon holy persons and Religious Houses, and a vast multitude of other Barbarities, which that King execute on this People without spairing of any Sex, or Age, Religion, or Order of Men whatsoever.</p>
+               <p>But at length it pleased GOD, who only can heal after wounds, to restore us to Liberty, from these innumerable Calamities, by our most <hi>Se<g ref="char:EOLhyphen"/>rene Prince King and Lord Robert,</hi> who for the delivering of his People and his own Rightful Inheritance from the Enemies hand, did like another <hi>Joshua or Maccabeus</hi> most chearfully undergo all manner of Toyl, Fatigue, Hardship, and Hazard. The Divine Providence, the right of Succession, by the Laws and Customs of the Kingdom (which we will defend till death) and the due and Lawfull C<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsent, and Assent of all the People, made him our King and Prince. To him we are obliged, and resolved to adhere in all things, both upon the account of his Right, and his own merit, as being the person who hath restored the People's safety, in defence of their Liberties. But after all, if this Prince shall leave these principles he hath so nobly pursued, and consent that We or our Kingdom be Subjected to the King or People of England, we will immediatly endeavour to ex<g ref="char:EOLhyphen"/>pell him, as our Enemy and as the Subverter, both of his own and our Rights, and will make another King, who will defend our Liberties: For so long as there shall but one hundred of us remain alive, we will never give consent to subject our selves to the D<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minion of the Eng<g ref="char:EOLhyphen"/>lish. For it is not Gl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, it is not Riches, neither is it Honour, but it is Liberty alone that we sight, and c<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntend for, which no honest man will lose, but with his Life.</p>
+               <p>For these reasons, <hi>most reverend Father and Lord,</hi>
+                  <pb n="6" facs="tcp:41027:4"/> We do with most earnest Prayers, from our bended Knees and Hearts, beg, and entreat, your Holiness, that you may be pleased with a sincere, and cordial piety, to consider, that with Him, whose Vicar on Earth you are, there is no respect nor distinction of <hi>Jew</hi> nor <hi>Greek, Scots</hi> nor <hi>English,</hi> and that with a tender and Fatherly eye, you may look upon the Calami<g ref="char:EOLhyphen"/>ties, and straits, brought upon us, and the Church of God by the English; and that you may admonish, and exhort the King of <hi>England,</hi> (who may well rest satisfied with his own pos<g ref="char:EOLhyphen"/>sessions, since that Kingdom of Old used to be sufficient for seven or moe Kings) to suffer us to leave at Peace in that narrow spot of <hi>Scotland,</hi> beyond which we have no Habitation, since we desire nothing but our own, and we on our part, as farr as we are able, with respect to our condition, shall effectually agree to him in every thing that may procure our quiet.</p>
+               <p>It is our concernment, Most Holy Father, to interpose in this, when you see how far the vio<g ref="char:EOLhyphen"/>lence, and Barbarity of the Pagans is let loose to rage against Christendom for punishing of the sins of the Christians, and how much they dayly encroach upon the Christian Territories. And it is your Interest to notice, that there be no ground given for reflecting on your Memo<g ref="char:EOLhyphen"/>ry, if you should suffer any part of the Church, to come under a Scandal, or Ecclipse (which we pray GOD may prevent) during your times. <hi>Let it therefore please your Holiness, to exhort the Christian Princes, not to make the Warrs be<g ref="char:EOLhyphen"/>twixt them and their Neighbours, a pretext for not going to the Relief of the</hi> Holy-Land, <hi>since that is not the true Cause of the impediment: The truer Ground of it is, that they have a much nearer prospect of Advantage, and far less opposi<g ref="char:EOLhyphen"/>tion, in the subduing of their weaker Neighbours. And GOD (who is ignorant of nothing) knows, with how much chearfulness, both our King, and we would go thither, if the King of</hi> England <hi>would leave us in Peace, and we do hereby testifie and de<g ref="char:EOLhyphen"/>clare it to the</hi> Vicar <hi>of</hi> Christ, <hi>and to all Christendom. But, if your Holiness shall be too credulous of the English misrepresentations, and not give firm credit to what we have said, nor desist to favour the</hi>
+                  <pb n="7" facs="tcp:41027:4"/> English, to our destruction; we must believe that the <hi>Most High</hi> will lay to your Charge, all the Blood, loss of Souls, and other calamities that shall follow on either hand, betwixt us and them.</p>
+               <p>Your <hi>Holiness</hi> in granting our just desire, will oblige us in every case, where our duty shall require it, to endavour your satisfaction, as becomes obedient Sons of the <hi>Vicar</hi> of <hi>Christ.</hi>
+               </p>
+               <p>We commit the defence of our cause, to Him who is the Soveraign <hi>King</hi> and <hi>Judge,</hi> we cast the burden of our cares upon him, and hope for such an issue as may give strength, and cou<g ref="char:EOLhyphen"/>rage to us, and bring our Enemies to nothing. <hi>The Most High GOD long preserve your Serenity, and Holiness to his Holy Church.</hi>
+               </p>
+               <closer>
+                  <dateline>Given at the Monastry of <hi>Aberbrothock</hi> in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+                     <date>the Sixth day of <hi>April,</hi> in the year of <hi>Grace</hi> M.CCC.XX. And of our said King's reign the XV. year.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41027:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
